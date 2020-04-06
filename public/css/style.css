@@ -2,8 +2,8 @@
 
 :root {
 	--dark-color-a: #3B374E;
-	--dark-color-b: #8E7DDF;
-	--light-color: #E7E4F7;
+	--dark-color-b: #31B3B3;
+	--light-color: #BCD8D8;
 	--success-color: #5cb85c;
 	--error-color: #d9534f;
 }
@@ -17,7 +17,8 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	background: var(--light-color);
+	background-image: url("https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif");
+    background-size:cover;
 	margin: 20px;
 }
 
