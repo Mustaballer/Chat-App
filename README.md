@@ -5,6 +5,8 @@ made with Node.js, Socket.io for backend, and Vanilla Javascript for frontend.
 
 Click the link here to see the web app: https://chillchatapp.herokuapp.com/
 
+![ChillChat Snap](https://i.snipboard.io/rekNZ9.jpg)
+
 ## Built With
 
 * [Node.js](https://nodejs.org/en/) - JS runtime environment
