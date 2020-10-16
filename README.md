@@ -1,6 +1,6 @@
 # ChillChat
 
-This is a Chat Web app with chat room functionality, along with calming background music, and beautiful background art(credit below)
+This is a Chat web app with chat room functionality, along with calming background music, and beautiful background art(credit below)
 made with Node.js, Socket.io for backend, and Vanilla Javascript for frontend.
 
 Click the link here to see the web app: https://chillchatapp.herokuapp.com/
